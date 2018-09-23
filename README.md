@@ -13,7 +13,7 @@ Some sample with [Postman](https://www.getpostman.com/) can be found [Postman](h
 
 ## Deploying
 
-1. Clone (```git clone https://github.com/tokyojack/plastickarmaapi```
+1. Clone (```git clone https://github.com/tokyojack/Plastic-Karma-Product-Rest-API```
 2. ``CD`` into the folder
 3. Run ```npm install``` for the packages
 4. Add your MongoDB atlas URL into the ```config.js``` file
