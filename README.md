@@ -9,7 +9,7 @@ allowing increased reliability and ease of use.
 
 ## Tutorial
 
-Some sample with [Postman](https://www.getpostman.com/) can be found [Postman](https://www.getpostman.com/collections/0bd736c7995968861cfc).
+Some sample with [Postman](https://www.getpostman.com/) can be found [here](https://www.getpostman.com/collections/0bd736c7995968861cfc).
 
 ## Deploying
 
