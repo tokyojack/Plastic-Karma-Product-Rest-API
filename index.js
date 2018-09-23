@@ -41,9 +41,6 @@ app.use("/", require("./routes/index-routes.js")());
 app.use("*", require("./routes/misc-routes")());
 
 // server
-// app.listen(8082, function () {
-//     console.log("Server running");
-// });
-app.listen(process.env.PORT, process.env.IP, function() {
-   console.log("Hosting on " + process.env.PORT + ":" + process.env.IP);
+app.listen(8080, function () {
+    console.log("Server running");
 });
